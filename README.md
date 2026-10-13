@@ -12,9 +12,8 @@ My go-to tools are KiCad, Fusion 360, ESP32/Arduino, a Multimeter, an Oscillosco
 
 I'm looking for a Summer 2027 Electrical Engineering internship and If you're hiring, let's talk!
 
-Email: hamzah.shaoob2004@gmail.com <br>
-[LinkedIn](https://www.linkedin.com/in/shaoham/)
-
+📫 Email: [hamzah.shaoob2004@gmail.com](mailto:hamzah.shaoob2004@gmail.com)<br>
+💼 [LinkedIn](https://linkedin.com/in/hamzahshaoob)
 ______________________________________________________________________________________________________________________________
 
 A Bit About Me
