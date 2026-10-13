@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I'm Hamzah, an Electrical Engineering student at the University of Washington in Bothell (graduating in 2028).
 
 Besides spending my time in school, I currently work at Target as a Guest Advocate an in my free time I build hardware: circuits, circuit boards, wiring, and the code which brings these tools/devices to life.
@@ -15,4 +14,4 @@ I'm looking for a Summer 2027 Electrical Engineering internship and If you're hi
 
 Email: hamzah.shaoob2004@gmail.com
 LinkedIn: https://linkedin.com/in/hamzahshaoob
- -->
+
