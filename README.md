@@ -15,3 +15,5 @@ I'm looking for a Summer 2027 Electrical Engineering internship and If you're hi
 Email: hamzah.shaoob2004@gmail.com
 LinkedIn: https://linkedin.com/in/hamzahshaoob
 
+______________________________________________________________________________________________________________________________
+
