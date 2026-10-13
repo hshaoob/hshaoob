@@ -17,3 +17,8 @@ Email: hamzah.shaoob2004@gmail.com
 
 ______________________________________________________________________________________________________________________________
 
+A Bit About Me
+* ⚽ I am a huge fan of soccer and a diehard FC Barcelona supporter
+* 🧱💻 I love building tools which help increase my productivity or make my tasks easier
+* 🏃 I co-founded a chapter of Arab Run Club in Seattle
+* 🚀 I've built and launced a model rocket to 1000ft 
